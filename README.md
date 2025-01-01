@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JSS-F7DF1E?style=flat-square&logo=JSS&logoColor=black" />
 </p>
-#
 
+#
 ### 🧑‍💻 백엔드 (Backend)
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
