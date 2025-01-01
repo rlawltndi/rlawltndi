@@ -1,7 +1,7 @@
 ## Thank you for visiting! 👋
 
 ## 🚀 사용 기술 (Technologies & Tools)
-#
+
 ### 🚀 프론트엔드 (Frontend)
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
