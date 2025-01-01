@@ -1,6 +1,6 @@
 ## Thank you for visiting! 👋
 
-### 🚀 사용 기술 (Technologies & Tools)
+## 🚀 사용 기술 (Technologies & Tools)
 #
 ### 🚀 프론트엔드 (Frontend)
 <p>
