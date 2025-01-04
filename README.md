@@ -1,4 +1,4 @@
-# Thank you for visiting! 👋
+# Thank you for visiting!! 👋
 
 ## 🚀 사용 기술 (Technologies & Tools)
 
