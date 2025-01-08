@@ -1,6 +1,6 @@
 # Thank you for visiting!! 👋
 <h2>Portfolio</h2>
-<a href="https://dongugchoi.github.io/portfolio/">
+<a href="https://rlawltndi.github.io/portfolio/">
     <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
