@@ -1,9 +1,9 @@
 # Thank you for visiting!! 👋
-### portfoilo link
-   <h2>Portfilo</h2>
-      <a href="https://dongugchoi.github.io/portfolio/">
-         <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-     </a>
+<h2>Portfolio</h2>
+<a href="https://dongugchoi.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/ClickMe-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
+
 ## 🚀 사용 기술 (Technologies & Tools)
 
 ### 🚀 프론트엔드 (Frontend)
