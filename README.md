@@ -1,5 +1,6 @@
 # Thank you for visiting!! 👋
-
+### portfoilo link
+https://rlawltndi.github.io/portfolio/
 ## 🚀 사용 기술 (Technologies & Tools)
 
 ### 🚀 프론트엔드 (Frontend)
